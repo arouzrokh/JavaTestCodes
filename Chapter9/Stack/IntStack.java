@@ -1,6 +1,4 @@
-// pacakge Stack;
-
-interface IntStack {
+public interface IntStack {
 	void push(int item); // store an item
 	int pop(); // retrieve an item
 	int count(); //counts the number of elements in the stack

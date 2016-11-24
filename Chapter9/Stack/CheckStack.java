@@ -1,5 +1,3 @@
-// pacakge Stack;
-
 class CheckStack {
 	public static void main(String args[]) {
 		
@@ -34,7 +32,7 @@ class CheckStack {
 		System.out.println(mystack.pop());
 		System.out.println(mystack.pop());
 		System.out.println(mystack.pop());
-		
+
 		mystack = fs;
 
 		System.out.println(mystack.pop());
