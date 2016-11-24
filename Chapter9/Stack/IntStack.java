@@ -3,6 +3,7 @@ public interface IntStack {
 	int pop(); // retrieve an item
 	int count(); //counts the number of elements in the stack
 	int peak(); // looks at the last elements in the stack
+	// You can add default methods here if need be. 
 }
 
 // implements a fixes stack size implementation of IntStack
